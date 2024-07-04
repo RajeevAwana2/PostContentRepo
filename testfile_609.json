@@ -1,0 +1,93 @@
+[
+  {
+    "EmpId": 1,
+    "Name": "Kaushik",
+    "Designation": ".net Developer",
+    "JoiningDate": "09/23/2013",
+    "Skill": [
+      {
+        "Id": 1,
+        "SkillName": "C#"
+      },
+      {
+        "Id": 2,
+        "SkillName": "PHP"
+      },
+      {
+        "Id": 3,
+        "SkillName": "java"
+      }
+    ]
+  },
+  {
+    "EmpId": 1,
+    "Name": "Kaushik",
+    "Designation": ".net Developer",
+    "JoiningDate": "09/23/2013",
+    "Skill": [
+      {
+        "Id": 1,
+        "SkillName": "C#"
+      },
+      {
+        "Id": 2,
+        "SkillName": "PHP"
+      },
+      {
+        "Id": 3,
+        "SkillName": "java"
+      }
+    ]
+  },
+  {
+    "EmpId": 0,
+    "Name": "Test Person 1",
+    "Designation": null,
+    "JoiningDate": null,
+    "Skill": null
+  },
+  {
+    "EmpId": 0,
+    "Name": "Test Person 2",
+    "Designation": null,
+    "JoiningDate": null,
+    "Skill": null
+  },
+  {
+    "EmpId": 0,
+    "Name": "Test Person 3",
+    "Designation": null,
+    "JoiningDate": null,
+    "Skill": null
+  },
+  {
+    "EmpId": 0,
+    "Name": "Test Person 4",
+    "Designation": null,
+    "JoiningDate": null,
+    "Skill": null
+  },
+  {
+    "EmpId": 0,
+    "Name": "Test Person 5",
+    "Designation": null,
+    "JoiningDate": null,
+    "Skill": null
+  },
+  {
+    "EmpId": 0,
+    "Name": "Test Person 6",
+    "Designation": null,
+    "JoiningDate": null,
+    "Skill": [
+      {
+        "Id": 134354,
+        "SkillName": "C#"
+      },
+      {
+        "Id": 2656565,
+        "SkillName": "SQL"
+      }
+    ]
+  }
+]
